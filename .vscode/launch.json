@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hrish/Downloads/Algorithmic-Toolbox-San-Diego-master/Algorithmic-Toolbox-San-Diego-master/week1_programming_challenges/1_sum_of_two_digits",
+      "program": "c:/Users/hrish/Downloads/Algorithmic-Toolbox-San-Diego-master/Algorithmic-Toolbox-San-Diego-master/week1_programming_challenges/1_sum_of_two_digits/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
